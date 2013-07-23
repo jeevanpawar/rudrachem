@@ -37,6 +37,12 @@ body {
 	overflow:hidden;
 	padding:0
 }
+.b
+{
+	text-decoration:underline;
+	font-weight:bold;
+	
+}
 .main-bg {
 	width:100%;
 	min-height:100%;
